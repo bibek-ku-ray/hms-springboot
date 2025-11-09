@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/doctors")
+@RequestMapping("/doctors")
 @RequiredArgsConstructor
 public class DoctorController {
 
